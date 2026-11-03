@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Boipelo Junior — Portfolio
 
 A dark-theme, glassmorphism personal portfolio built with React, TypeScript,
@@ -59,3 +60,7 @@ public/
 - Tailwind CSS
 - Framer Motion (animations)
 - lucide-react (icons) + a few custom inline brand icons
+=======
+# Personal-Portfolio
+A personal developer portfolio showcasing my software engineering projects, technical skills, experience and professional journey.
+>>>>>>> 422d538819c3b18539e6af1d7a0c8296b53e1676
